@@ -1,74 +1,71 @@
-# 🚀 **ULTIMATIVER FPS BOOST** 🎯💻
+🚀 Ultimate FPS Boost Script 🎮✨
+Willkommen zu diesem leistungsstarken FPS-Boost-Skript, das dir hilft, deine PC-Gaming-Performance zu maximieren! 🖥️ Dieses Skript enthält die besten Befehle und Optimierungen, um dein System auf Höchstleistung zu bringen. 🚀
 
-> **Mach dein Gaming ERLEBNIS besser als je zuvor!** 🏆  
-> Dieser FPS-Boost-Guide hilft dir, dein System zu optimieren, damit du die BESTE Performance in deinen Lieblingsspielen bekommst! 🎮✨  
+🎉 Warum dieses Skript?
+Dieses Skript:
 
----
+✅ Verbessert deine FPS drastisch in Spielen.
+⚡ Reduziert Lags und sorgt für butterweiches Gameplay.
+💡 Einfach zu nutzen, sowohl für Anfänger als auch Profis.
+🔧 Anleitung
+1️⃣ Aktiviere den Höchstleistungsmodus ⚡
+Verwende diesen Befehl, um den Höchstleistungsmodus auf deinem PC zu aktivieren:
 
-## 🎉 **FEATURES, DIE DEINE FPS ZERSTÖREN (im positiven Sinne)!** 💥
+bash
+Kopieren
+Bearbeiten
+powercfg -setactive SCHEME_MIN
+2️⃣ Hintergrundprozesse stoppen 🛑
+Beende unnötige Programme, die im Hintergrund laufen:
 
-✅ **Höchstleistung aktivieren:** Bringt deine Hardware ans Limit!  
-✅ **Hintergrundprozesse killen:** Keine unnötigen Apps im Weg! 🚫🖥️  
-✅ **Netzwerk-Optimierung:** Reduzierter Ping für smootheres Gameplay. 🌐⚡  
-✅ **Windows-Tuning:** Weniger Eyecandy, mehr Power! 💪  
-✅ **Einfacher Guide:** Perfekt für Anfänger und Profis gleichermaßen! 🧑‍💻👾  
+Drücke CTRL + Shift + ESC, um den Task-Manager zu öffnen.
+Schließe Prozesse wie:
+🗂️ OneDrive
+💬 Discord
+🌐 Browser (z. B. Chrome).
+3️⃣ Windows-Effekte optimieren 🖥️
+Deaktiviere unnötige visuelle Effekte, indem du folgende Schritte ausführst:
 
----
+Rechtsklick auf Dieser PC > Eigenschaften.
+Gehe zu Erweiterte Systemeinstellungen > Leistung > Beste Leistung auswählen.
+4️⃣ Netzwerk-Optimierung 🌐
+Reduziere deinen Ping mit diesem Befehl (als Administrator ausführen):
 
-## 🔧 **SO BOOSTEST DU DEINE FPS** 🛠️
+bash
+Kopieren
+Bearbeiten
+netsh int tcp set global autotuninglevel=disabled
+5️⃣ GPU-Settings anpassen 🎥
+Passe deine Grafikkarteneinstellungen an:
 
-1️⃣ **Aktiviere den Höchstleistungsmodus** ⚡  
-- Öffne die Eingabeaufforderung und tippe:  
-  ```bash
-  powercfg -setactive SCHEME_MIN
-  ```
-  🔥 Dein PC läuft jetzt auf voller Power!
+Öffne die NVIDIA oder AMD Radeon Settings.
+Stelle sicher, dass:
+Energieverwaltung auf Maximale Leistung steht.
+V-Sync deaktiviert ist.
+6️⃣ Windows Defender (temporär) deaktivieren 🛡️
+Um tiefergehende Optimierungen zu ermöglichen, deaktiviere den Echtzeitschutz vorübergehend:
 
-2️⃣ **Schalte unnötige Programme ab** 🛑  
-- Drücke `STRG` + `Shift` + `Esc`, gehe zu **Prozesse** und schließe:  
-  - 🗂️ OneDrive  
-  - 💬 Discord  
-  - 🌐 Browser (z. B. Chrome)
+So deaktivierst du den Echtzeitschutz manuell:
+Öffne Windows-Sicherheit.
+Gehe zu Viren- & Bedrohungsschutz > Einstellungen verwalten.
+Schalte Echtzeitschutz auf Aus.
+Alternativ kannst du dies mit folgendem PowerShell-Befehl machen:
 
-3️⃣ **Optimierung der Grafik** 🖥️  
-- Klicke mit der rechten Maustaste auf „Dieser PC“ > **Eigenschaften**  
-- Gehe zu **Erweiterte Systemeinstellungen** > **Leistung** > **Beste Leistung** aktivieren.
+powershell
+Kopieren
+Bearbeiten
+Set-MpPreference -DisableRealtimeMonitoring $true
+⚠️ Wichtig: Vergiss nicht, den Schutz wieder einzuschalten, wenn du fertig bist!
 
-4️⃣ **Ping reduzieren** 🌐  
-- Öffne die Eingabeaufforderung (als Admin) und gib Folgendes ein:  
-  ```bash
-  netsh int tcp set global autotuninglevel=disabled
-  ```
+🎯 Ergebnisse, die du erwarten kannst
+📈 50–100% mehr FPS auf den meisten PCs.
+⚡ Smootheres Gameplay bei höheren Einstellungen.
+🏆 Dein System läuft wie eine gut geölte Maschine.
+🛑 Wichtige Hinweise
+Führe diese Optimierungen auf eigene Verantwortung aus.
+Backups sind empfohlen, bevor Änderungen vorgenommen werden.
+💡 Gefällt dir das Skript?
+🌟 Gib diesem Repository einen Stern!
+📢 Teile es mit deinen Freunden, die auch FPS-Boosts wollen!
 
-5️⃣ **GPU optimieren** 🎥  
-- Gehe in deine **NVIDIA** oder **AMD Radeon Settings**:  
-  - Stelle sicher, dass die Energieverwaltung auf „Maximale Leistung“ steht.  
-  - Setze V-Sync auf „Aus“.  
-
----
-
-## 🏅 **RESULTATE, DIE DEINE KINNLADE FALLEN LASSEN WERDEN** 😱  
-
-📈 **+50-100% mehr FPS** auf fast jedem PC!  
-⚡ **Butterweiches Gameplay** bei höheren Einstellungen.  
-🏆 **Dein System läuft wie eine gut geölte Maschine.**
-
----
-
-## ⚠️ **WARNUNG** ⚠️
-
-Dieses Projekt enthält Tipps und Tricks, die tief in dein System eingreifen können. Bitte nur anwenden, wenn du weißt, was du tust! 🛡️  
-**Backups machen, bevor du Änderungen vornimmst!**  
-
----
-
-### 💌 **LIEBE DIESES PROJEKT?**  
-
-🌟 Starte es auf GitHub!  
-🖊️ Hinterlasse Feedback und Verbesserungsvorschläge!  
-📢 Teile es mit deinen Freunden, die ihre FPS steigern wollen!  
-
----
-
-🎮 **Viel Spaß beim Zocken mit ultra-flüssigen FPS!** 🚀🔥  
-**#FPSBoost #GamingPerformance #OPSetup**
+🎮 Viel Spaß beim Gaming mit ultra-hohen FPS! 🚀🔥
