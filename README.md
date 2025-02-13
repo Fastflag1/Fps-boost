@@ -16,7 +16,8 @@
 ---
 
 ### **🛠️ Nova Tweaking Utility:**  
-![image](https://github.com/user-attachments/assets/6fb55a2e-6bc6-4aae-884f-40fe65a4fba2)
+![image](https://github.com/user-attachments/assets/90df8ff7-5d6f-4d2b-9358-ad9f0fd15d2f)
+
 
 
 ---
